@@ -115,6 +115,8 @@ Hackbright Academy,https://hackbrightacademy.com,Yes,No,Yes,No,No,No,No,No,Yes
 Kal Academy,https://www.kalacademy.org,Yes,No,No,Yes,No,No,No,No,Yes
 Launch Academy,https://launchacademy.com,No,Yes,No,No,No,No,No,No,No
 Lean Startup Machine,https://www.leanstartupmachine.com,No,No,No,No,No,No,No,No,No
+Metis,https://www.thisismetis.com,No,No,No,No,No,No,No,No,No
+Millennial Entrepreneurs Redefined,http://millennialsredefined.org,No,No,No,No,No,No,No,No,No
 MORTAR,https://wearemortar.com,Yes,Yes,No,No,No,No,No,No,No
 Nation of Makers,https://www.nationofmakers.us,No,No,Yes,No,No,No,No,No,No
 National BDPA,https://www.bdpa.org,No,No,Yes,Yes,No,No,Yes,Yes,Yes
@@ -202,9 +204,10 @@ Highlander Accelerator,http://highlanderomaha.com,No,No,Yes,No,No,No,No,No,No
 Impact Hub,https://impacthub.net,No,No,Yes,No,No,No,Yes,Yes,Yes
 Inclusive Innovation Incubator,https://www.in3dc.com,No,No,No,No,No,No,No,No,No
 Input Lofts,http://inputlofts.com,No,No,No,No,No,No,No,No,No
+LA Create Space,https://www.lacreatespace.com,No,No,Yes,Yes,No,No,Yes,No,Yes
 Locale Workspace,http://www.localeworkspace.com,No,No,No,No,No,No,No,No,No
 New Women Space,https://www.newwomenspace.com,No,No,No,No,No,No,No,No,No
-Oakstop,http://oakstop.com,No,No,Yes,Yes,No,No,Yes,Yes,No
+Oakstop,http://oakstop.com,No,No,Yes,Yes,No,No,Yes,Yes,Yes
 Opportunity Hub,https://opportunityhub.co,No,Yes,Yes,No,No,No,Yes,No,Yes
 OSC Tech Lab,https://osctechlab.com,No,No,No,No,No,No,No,No,No
 Perfect Office,https://goperfectoffice.com,Yes,No,No,Yes,No,No,No,No,No
@@ -227,7 +230,7 @@ Vector 90,https://www.vector90.com,No,No,No,No,No,No,No,No,No
 WeWork,https://www.wework.com,No,No,No,No,No,No,Yes,No,No
 Work Evolution,https://www.workevolution.co,Yes,No,Yes,No,No,No,Yes,No,Yes
 Zora's House,https://zorashouse.com,No,No,Yes,Yes,No,No,No,No,No
-Black Innovation Alliance,https://blackinnovationalliance.com,No,Yes,Yes,Yes,No,No,Yes,No,Yes
+Black Innovation Alliance,https://blackinnovationalliance.com,No,No,No,No,No,No,No,No,No
 Fearless Fund,https://fearless.fund,No,Yes,No,No,No,No,No,No,No
 Harlem Capital,https://harlem.capital,No,Yes,No,No,No,No,No,No,No
 Zane Venture Fund,https://zane.vc,No,No,Yes,No,No,No,No,No,No
@@ -278,6 +281,7 @@ CONNECT ALL @ the Jacobs Center,https://www.connectallsd.org,No,No,No,No,No,No,N
 DivInc,https://www.divinc.org,Yes,Yes,Yes,No,No,No,No,No,No
 Dreamit,https://www.dreamit.com,No,No,Yes,No,No,No,Yes,No,No
 Founder Gym,https://foundergym.com,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+FundBlackFounders,https://fundblackfounders.com,No,No,No,No,No,No,No,No,No
 Greenville Chamber Minority Business Accelerator,https://www.greenvillechamber.org/mba,No,No,Yes,Yes,No,No,No,No,No
 Hillman Accelerator,https://www.hill7.org,No,No,No,No,No,No,No,No,No
 Impact Ventures Startup Accelerator,https://impact-ventures.co/2019/09/02/impact-accelerator-2,Yes,No,No,No,No,No,No,No,No
@@ -326,7 +330,7 @@ AcceleratorApp Limited,https://www.acceleratorapp.co,No,No,No,No,No,No,No,No,No
 LeadLoft,https://www.leadloft.com,No,No,No,No,No,No,Yes,No,No
 Enterprise Nation,https://www.enterprisenation.com,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
 Movemeback,https://www.movemeback.com,No,No,No,No,No,No,No,No,No
-Mercia,https://www.mercia.co.uk,No,Yes,Yes,No,No,No,No,Yes,No
+Mercia,https://www.mercia.co.uk,No,Yes,No,No,No,No,No,Yes,No
 Bamboocowork,https://www.bamboocowork.com,No,No,Yes,No,No,No,No,No,No
 Purposeful Group,https://www.purposefulgroup.com,Yes,No,Yes,Yes,No,No,Yes,Yes,No
 Women in Tech Network,https://www.womentech.net,Yes,Yes,Yes,No,No,No,Yes,Yes,No
@@ -370,14 +374,14 @@ GBSLEP Growth Hub,https://www.gbslepgrowthhub.co.uk,Yes,Yes,Yes,No,No,Yes,No,No,
 SuperTech WM,https://www.supertechwm.com,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes
 CW Growth Hub,https://www.cwgrowthhub.co.uk,Yes,Yes,Yes,Yes,No,No,No,Yes,No
 Innovation Alliance,https://innovationwm.co.uk,No,Yes,Yes,Yes,No,No,Yes,No,No
-Aston Programme for Small Business Growth,https://www.aston.ac.uk,No,No,Yes,No,No,No,No,Yes,No
+Aston Programme for Small Business Growth,https://www.aston.ac.uk,No,Yes,Yes,No,No,No,No,Yes,No
 Energy Systems Catapult,https://es.catapult.org.uk,Yes,No,Yes,Yes,No,No,Yes,Yes,No
 Manufacturing Technology Centre,https://www.the-mtc.org,No,No,Yes,Yes,No,No,Yes,No,No
 WMAHSN,https://www.healthinnovationwestmidlands.org,No,No,Yes,No,No,No,Yes,No,No
 Technology Supply Chain,https://www.technologysupplychain.co.uk,No,Yes,Yes,No,No,No,Yes,No,Yes
 Enterprise Nation,https://www.enterprisenation.com,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
 Tech Nation,https://technation.io,Yes,No,Yes,No,No,No,Yes,No,No
-Tech UK,https://www.techuk.org,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Tech UK,https://www.techuk.org,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
 BCU Advantage,https://bcuadvantage.co.uk,No,Yes,Yes,No,No,No,No,No,No
 Black Country Growth Hub,https://uktin.net,Yes,Yes,Yes,Yes,No,No,Yes,No,No
 UK BlackTech,https://ukblacktech.com,No,No,Yes,No,No,No,Yes,No,No
@@ -412,7 +416,7 @@ McKinsey & Company,https://www.mckinsey.com,No,No,No,No,No,No,No,No,No
 Mercer,https://www.mercer.com,No,Yes,Yes,No,No,No,Yes,No,No
 North Highland,https://www.northhighland.com,No,No,No,No,No,Yes,No,No,No
 Oliver Wyman,https://www.oliverwyman.com,No,Yes,No,No,No,No,Yes,Yes,Yes
-Protiviti,https://www.protiviti.com,Yes,Yes,No,No,No,Yes,Yes,No,Yes
+Protiviti,https://www.protiviti.com,No,Yes,Yes,No,No,Yes,Yes,No,Yes
 PwC,https://www.pwc.com,No,Yes,No,No,No,Yes,Yes,Yes,Yes
 Roland Berger,https://www.rolandberger.com,Yes,No,Yes,No,No,Yes,No,Yes,No
 Royal Consulting Firm,http://www.royalconsultingfirm.com,No,No,No,No,No,No,No,No,No
