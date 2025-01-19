@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+
+# Jupyter Notebook checkpoint files
+*.ipynb_checkpoints/
+Script_for_webscrape-checkpoint.ipynb
+Script_for_webscrape-checkpoint.ipynb.txt
+
+# Exported Jupyter folder
+Script_for_webscrape - Jupyter Notebook_files/
+
+
